@@ -6,7 +6,7 @@ import { Image } from 'react-native';
 
 import logo from '~/assets/logo.png';
 
-import BackGround from '~/components/Brackground';
+import BackGround from '~/components/Background';
 import { signInRequest } from '~/store/modules/auth/actions';
 
 import {
