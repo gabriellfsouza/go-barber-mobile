@@ -9,8 +9,6 @@ import './config/ReactotronConfig';
 import { store, persistor } from './store';
 import App from './App';
 
-// import { Container } from './styles';
-
 function Index() {
   return (
     <Provider store={store}>
